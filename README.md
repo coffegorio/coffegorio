@@ -1,11 +1,15 @@
 # Hi, I'm coffegorio 👋
 
-I build practical tools that let people run more of their own infrastructure.
+**Software engineer focused on mobile development and analytics.**
 
-### Featured project
+I enjoy building useful products, understanding how people use them, and improving them with data. My interests span mobile experiences, analytics, and the services and tools that support them.
 
-[**Self-Hosted Browser VPN**](https://github.com/coffegorio/self-hosted-browser-vpn) — route Chrome's web requests through an authenticated HTTPS proxy on your own VPS while the rest of your device keeps its usual connection. It is a browser proxy, not a system-wide VPN. The project includes an Ubuntu installer, a Chrome extension, tests, and setup and security documentation.
+### What I focus on
 
-[Explore the project and setup guide →](https://github.com/coffegorio/self-hosted-browser-vpn#быстрый-старт)
+- 📱 **Mobile development** — thoughtful app experiences and the engineering behind them.
+- 📊 **Analytics** — turning data into clear insights and better product decisions.
+- 🛠️ **Practical engineering** — services, automation, and self-hosted tools that solve real problems.
 
-The project is currently an MVP. Feedback and contributions are welcome through its [issues](https://github.com/coffegorio/self-hosted-browser-vpn/issues).
+### Open-source work
+
+[**Self-Hosted Browser VPN**](https://github.com/coffegorio/self-hosted-browser-vpn) is a Chrome extension and self-hosted HTTPS proxy that routes browser traffic through your own VPS while other apps keep their usual connection. It is one example of the practical tools I like to build.
